@@ -25,7 +25,7 @@ const ArticleActions = props => {
         </Link>
 
         <button className="btn btn-outline-danger btn-sm" onClick={del}>
-          <i className="ion-trash-a"></i> Delete Article 123
+          <i className="ion-trash-a"></i> Delete Article 12
         </button>
 
       </span>
